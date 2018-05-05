@@ -1,0 +1,14 @@
+{
+  "name": "js-enumerable",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Fabeuluci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabeuluci/js-enumerable.git"
+  },
+  "main": "out/Enumerable.js",
+  "typings": "out/Enumerable.d.ts"
+}
